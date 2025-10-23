@@ -9,6 +9,10 @@ Analyses exploratoires + modèles de classification du `match`.
 - ✅ **Version lisible (nbviewer)** : https://nbviewer.org/github/Zac-dev618/tinder-analytics/blob/main/notebooks/01_exploration.ipynb  
 - ▶️ **Ouvrir dans Colab** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zac-dev618/tinder-analytics/blob/main/notebooks/01_exploration.ipynb)
 
+## 🎬 Présentation (Gamma)
+➡️ [Voir la présentation interactive](https://gamma.app/https://gamma.app/docs/Ce-que-Revele-le-Speed-Dating-lw4q7j3lo9lhf6q)
+
+
 ## ⚙️ Installation locale (optionnel)
 ```bash
 python -m venv .venv
