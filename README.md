@@ -5,12 +5,15 @@ Analyses exploratoires + modèles de classification du `match`.
 > ℹ️ GitHub n’affiche pas les graphiques Plotly dans l’aperçu du notebook.  
 > Utilise les liens ci-dessous pour voir **tous** les graphes.
 
+
 ## 📒 Notebook (avec graphes)
 - ✅ **Version lisible (nbviewer)** : https://nbviewer.org/github/Zac-dev618/tinder-analytics/blob/main/notebooks/01_exploration.ipynb  
 - ▶️ **Ouvrir dans Colab** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zac-dev618/tinder-analytics/blob/main/notebooks/01_exploration.ipynb)
 
+
 ## 🎬 Présentation (Gamma)
-➡️ [Voir la présentation interactive](https://gamma.app/https://gamma.app/docs/Ce-que-Revele-le-Speed-Dating-lw4q7j3lo9lhf6q)
+➡️ [Voir la présentation interactive](https://gamma.app/docs/Ce-que-Revele-le-Speed-Dating-lw4q7j3lo9lhf6q)
+
 
 
 ## ⚙️ Installation locale (optionnel)
