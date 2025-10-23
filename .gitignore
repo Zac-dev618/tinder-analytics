@@ -9,7 +9,3 @@ __pycache__/
 # Outputs
 figures/
 reports/
-
-# Données (NE PAS pousser les CSV)
-data/*
-!data/README.md
