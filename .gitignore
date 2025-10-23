@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+
+# Outputs
+figures/
+reports/
+
+# Données (NE PAS pousser les CSV)
+data/*
+!data/README.md
